@@ -1,49 +1,66 @@
-# AI-TestPilot
-AI-powered QA, Project Management &amp; Business Analysis Portfolio
-# AI-TestPilot
+# 🚀 AI-TestPilot
 
-## AI-Powered QA & Project Management Portfolio
+## AI-Powered QA, Project Management & Business Analysis Portfolio
 
-Welcome!
+Welcome to my AI learning portfolio.
 
-I'm Priyanka Sharma, a Senior Manual QA Engineer with 12 years of experience in Software Testing, ERP Testing, Project Coordination, and Agile methodologies.
+I'm **Priyanka Sharma**, a Senior Manual QA Engineer with 12 years of experience in Software Testing, ERP Testing, Project Coordination, and Agile methodologies.
 
-This repository documents my journey of integrating Artificial Intelligence into Software Testing, Business Analysis, and Project Management.
+This repository documents my journey of integrating Artificial Intelligence into Software Testing, Business Analysis, Project Coordination, and Project Management.
 
 ---
 
-## Learning Roadmap
+# 🎯 Objectives
 
-✅ AI Foundations
-
-⬜ Prompt Engineering
-
-⬜ Requirement Analysis
-
-⬜ Test Scenario Generation
-
-⬜ Test Case Generation
-
-⬜ API Testing
-
-⬜ SQL for QA
-
-⬜ Project Management
-
-⬜ Business Analysis
-
-⬜ AI Automation
+- Learn Artificial Intelligence
+- Master Prompt Engineering
+- Use AI in Software Testing
+- Improve Project Management using AI
+- Build a professional GitHub portfolio
+- Earn industry-recognized certifications
 
 ---
 
-## Certifications
+# 🛠 Skills
 
-- OpenAI AI Foundations
-- Git Introduction
+- Manual Testing
+- API Testing
+- SQL
+- Jira
+- Agile
+- Shopify Testing
+- ERP Testing
+- AI-assisted Testing
+- Prompt Engineering
+- Git & GitHub
 
 ---
 
-## Repository Structure
+# 📚 Learning Roadmap
+
+| Module | Status |
+|---------|--------|
+| AI Foundations | ✅ Completed |
+| Git Introduction | ✅ Completed |
+| Prompt Engineering | ⏳ In Progress |
+| Requirement Analysis | ⏳ Planned |
+| Test Scenario Generation | ⏳ Planned |
+| Test Case Generation | ⏳ Planned |
+| API Testing | ⏳ Planned |
+| SQL with AI | ⏳ Planned |
+| Project Management | ⏳ Planned |
+| AI Automation | ⏳ Planned |
+
+---
+
+# 📜 Certifications
+
+- ✅ OpenAI AI Foundations
+- ✅ Git Introduction
+
+---
+
+# 📁 Repository Structure
 
 01_AI_Foundations
 
@@ -55,4 +72,14 @@ This repository documents my journey of integrating Artificial Intelligence into
 
 05_Test_Cases
 
-...
+06_API_Testing
+
+07_SQL
+
+08_Project_Management
+
+09_AI_Automation
+
+---
+
+⭐ This repository is continuously updated as part of my AI Career Accelerator journey.
