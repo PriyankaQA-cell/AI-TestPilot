@@ -1,14 +1,26 @@
 # 🚀 AI-TestPilot
 
-## AI-Powered QA, Project Management & Business Analysis Portfolio
+## Building AI Solutions for Software Testing, Project Management & Business Analysis
 
-Welcome to my AI learning portfolio.
+Welcome!
 
 I'm **Priyanka Sharma**, a Senior Manual QA Engineer with 12 years of experience in Software Testing, ERP Testing, Project Coordination, and Agile methodologies.
 
-This repository documents my journey of integrating Artificial Intelligence into Software Testing, Business Analysis, Project Coordination, and Project Management.
-
+This repository documents my journey of integrating Artificial Intelligence into real-world Software Testing, Project Management, and Business Analysis workflows through practical projects, certifications, and hands-on experimentation.
 ---
+## Why this Repository?
+
+I created this repository to demonstrate how Generative AI can improve the efficiency and quality of software testing and project delivery.
+
+Every module contains:
+
+- Learning Notes
+- Reflection
+- Practical Applications
+- AI Prompts
+- Mini Projects
+- Certifications
+
 
 # 🎯 Objectives
 
